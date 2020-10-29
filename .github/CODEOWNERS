@@ -42,7 +42,7 @@
 /sdk/cosmos/azure-spring-data-cosmos-test/          @kushagraThapar @saragluna @yiliuTo @chenrujun @backwind1233 @jialindai @mbhaskar
 
 # PRLabel: %DigitalTwins
-/sdk/digitaltwins/                                  @drwill-ms @timtay-microsoft @abhipsaMisra @vinagesh @azabbasi @bikamani @barustum
+/sdk/digitaltwins/                                  @drwill-ms @timtay-microsoft @abhipsaMisra @vinagesh @azabbasi @bikamani @barustum @jamdavi
 
 # PRLabel: %Event Grid
 /sdk/eventgrid/                                     @srnagar @yijunxiems
